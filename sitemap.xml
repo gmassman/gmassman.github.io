@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://garrettmassman.com/poetry/1-my-mantra/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garrettmassman.com/poetry/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garrettmassman.com/poetry/2-while-true/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://garrettmassman.com/example_posts/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url>
@@ -80,6 +95,10 @@
   <url>
     <loc>https://garrettmassman.com/tags/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garrettmassman.com/categories/</loc>
   </url>
   
 </urlset>
