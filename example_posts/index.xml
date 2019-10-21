@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Garrett Massman</title>
-    <link>https://garrettmassman.com/</link>
-    <description>Recent content on Garrett Massman</description>
+    <title>Example_posts on Garrett Massman</title>
+    <link>https://garrettmassman.com/example_posts/</link>
+    <description>Recent content in Example_posts on Garrett Massman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Garrett Massman</copyright>
-    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Mar 2018 12:13:38 +0530</lastBuildDate>
     
-	<atom:link href="https://garrettmassman.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://garrettmassman.com/example_posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://garrettmassman.com/about/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garrettmassman.com/about/</guid>
-      <description>Welcome to my website! Feel free to poke around and see some of my content and projects. I also have a resume if you&amp;rsquo;re interested in that sort of thing.
-In early 2017 I moved from Tennessee to San Francisco. Currently I work as a software engineer at Skupos, where we build point-of-sale integrations for convenience stores. I mostly work on the backend web services, but I have a reasonable amount of frontend experience as well.</description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://garrettmassman.com/music/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garrettmassman.com/music/</guid>
-      <description>Lonesome Still This is my current bluegrass band. I play guitar and dobro.</description>
-    </item>
     
     <item>
       <title>How to test dark mode?</title>
