@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://garrettmassman.com/about/</loc>
-    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+    <loc>https://garrettmassman.com/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://garrettmassman.com/</loc>
+    <loc>https://garrettmassman.com/poetry/3-non-profundities/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garrettmassman.com/poetry/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garrettmassman.com/about/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://garrettmassman.com/poetry/1-my-mantra/</loc>
-    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://garrettmassman.com/poetry/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url>
   
