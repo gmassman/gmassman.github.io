@@ -1,0 +1,13 @@
+.mdx-poem {
+    margin-top: 1rem;
+}
+
+.mdx-poem--stanza {
+    margin-top: 1rem;
+}
+
+.mdx-poem .mdx-poem--line {
+    text-indent: -20px;
+    padding: 0;
+    display: block;
+}
