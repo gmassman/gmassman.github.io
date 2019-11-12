@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Garrett Massman</copyright>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://garrettmassman.com/poetry/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>To the Point</title>
+      <link>https://garrettmassman.com/poetry/8-to-the-point/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://garrettmassman.com/poetry/8-to-the-point/</guid>
+      <description>Back in the 50s, one man had a great message.
+ He heard it from his father when he was a kid, and it shaped the way he viewed the world.
+ When it was time for college, a war was raging overseas.
+ He knew he could make a great impact by sharing his message.
+ He would clothe the needy, show the lost God&#39;s Way.
+ So he studied theology</description>
+    </item>
     
     <item>
       <title>Titles</title>
