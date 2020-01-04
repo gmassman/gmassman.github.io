@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Garrett Massman</copyright>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://garrettmassman.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Survivor</title>
+      <link>https://garrettmassman.com/poetry/9-the-survivor/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://garrettmassman.com/poetry/9-the-survivor/</guid>
+      <description>What waves that were rolling and splashing ashore
+ What winds that were raging the coastline that day
+ What ocean gargantuan, waters that tore
+ Their houses to rubble, their homes washed away
+ The fires that burned in the forests so dry
+ The flames in the country continued for weeks
+ The damage was dealt and the families cried
+ As smoke filled the air over valleys and peaks</description>
+    </item>
     
     <item>
       <title>To the Point</title>
