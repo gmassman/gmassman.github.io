@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Garrett Massman</copyright>
-    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://garrettmassman.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Puddle</title>
+      <link>https://garrettmassman.com/poetry/11-puddle/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://garrettmassman.com/poetry/11-puddle/</guid>
+      <description>Specks of light glinter on the water&#39;s surface
+ As I close my eyes in meditation
+ Breathing deeply, warm air fills my lungs
+ Drifting inot the lake&#39;s call of calmness
+ Minutes pass as air goes in and out
+ Feeling more aware of life around me
+ Fish are swimming, bees and birds are singing
+ An old man is whistling on the dock
+ Separating from the world around me</description>
+    </item>
     
     <item>
       <title>Times Like These (For George Floyd)</title>
