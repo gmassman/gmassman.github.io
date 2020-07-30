@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Garrett Massman</copyright>
-    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://garrettmassman.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cursed</title>
+      <link>https://garrettmassman.com/poetry/13-cursed/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://garrettmassman.com/poetry/13-cursed/</guid>
+      <description>For years my field would flourish
+ With a million bolls of white
+ Each summer I&#39;d grow cotton
+ And we&#39;d pick it until night
+ We found our place on Earth
+ On a lot that God had granted
+ He blessed us with great harvests
+ From the seeds that we had planted
+ One year we saw some trouble
+ Damn boll weevil caused the blight</description>
+    </item>
     
     <item>
       <title>Self Restoration</title>
