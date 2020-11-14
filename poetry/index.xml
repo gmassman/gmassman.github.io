@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Garrett Massman</copyright>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://garrettmassman.com/poetry/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Design Philosophy</title>
+      <link>https://garrettmassman.com/poetry/15-a-design-philosophy/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://garrettmassman.com/poetry/15-a-design-philosophy/</guid>
+      <description>I object to objects
+ Terse as they may be
+ Made of state and actions
+ I&#39;ll claim subjectively
+ Just a box of buttons
+ Colored by their caller
+ Bounded by opaqueness
+ Bound for plans of squalor
+ Black is not a color
+ Any caller truly knows
+ Every object sees its context
+ And its boundaries come to blows
+ Once a moat was dug around</description>
+    </item>
     
     <item>
       <title>Blue Jean Gypsy</title>
