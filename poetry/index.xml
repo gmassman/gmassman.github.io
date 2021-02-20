@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Garrett Massman</copyright>
-    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://garrettmassman.com/poetry/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dependability</title>
+      <link>https://garrettmassman.com/poetry/17-dependability/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://garrettmassman.com/poetry/17-dependability/</guid>
+      <description>Forgive, don&#39;t forget
+ Feel good, no regrets
+ Learn a little bit by bit
+ And each day you&#39;ll add to it
+ There&#39;s 4 DBs for each blob
+ Use a tool to run all jobs
+ Up and at &#39;em day by day
+ This and that sir, service say...
+ What&#39;s a here or there deployed?
+ Costs uncertain, cheapness avoid!
+ But clean up each time you&#39;re done</description>
+    </item>
     
     <item>
       <title>Puzzles Are Puzzling</title>
